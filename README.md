@@ -61,30 +61,5 @@ In this project, the dataset can be used to:
   - Daily trends
   - Week-on-week changes
 
----
-
-## 🛠️ Tech Stack (Suggested)
-
-You can adapt this based on your repo, but a typical setup might include:
-
-- **Language:** Python (3.9+)
-- **Libraries:**
-  - `pandas` – data cleaning & transformation
-  - `numpy` – numerical operations
-  - `matplotlib` / `seaborn` / `plotly` – visualization
-  - `jupyter` – notebooks for analysis
-
----
-
-## 📂 Project Structure (Example)
-
-```bash
-.
-├── data
-│   └── PhonePe Dataset.xlsx
-├── notebooks
-│   └── 01_phonepe_funnel_analysis.ipynb
-├── src
-│   └── data_processing.py
 ├── README.md
 └── requirements.txt
