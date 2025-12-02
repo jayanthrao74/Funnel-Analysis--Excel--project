@@ -60,6 +60,3 @@ In this project, the dataset can be used to:
   - Funnel conversion
   - Daily trends
   - Week-on-week changes
-
-├── README.md
-└── requirements.txt
